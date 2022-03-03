@@ -1,0 +1,175 @@
+/*--------------------------------------------------------------
+# Footer
+--------------------------------------------------------------*/
+.footer {
+  background: lighten($secondary, 76);
+  padding: 0 0 30px 0;
+  font-size: 14px;
+
+  .footer-newsletter {
+    padding: 50px 0;
+    background: lighten($secondary, 76);
+    border-top: 1px solid lighten($secondary, 72);
+
+    h4 {
+      font-size: 24px;
+      margin: 0 0 10px 0;
+      padding: 0;
+      line-height: 1;
+      font-weight: 700;
+      color: $secondary;
+    }
+
+    form {
+      margin-top: 20px;
+      background: #fff;
+      padding: 6px 10px;
+      position: relative;
+      border-radius: 4px;
+      border: 1px solid lighten($secondary, 72);
+
+      input[type="email"] {
+        border: 0;
+        padding: 8px;
+        width: calc(100% - 140px);
+      }
+      input[type="submit"] {
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        border: 0;
+        background: none;
+        font-size: 16px;
+        padding: 0 30px;
+        margin: 3px;
+        background: $primary;
+        color: $white;
+        transition: 0.3s;
+        border-radius: 4px;
+        &:hover {
+          background: lighten($primary, 5);
+        }
+      }
+    }
+  }
+
+  .footer-top {
+    background: lighten($secondary, 78)  url(../img/footer-bg.png) no-repeat right top;
+    background-size: contain;
+    border-top: 1px solid lighten($secondary, 72);
+    border-bottom: 1px solid lighten($secondary, 72);
+    padding: 60px 0 30px 0;
+
+    @media (max-width: 992px) {
+      background-position: center bottom;
+    }
+
+    .footer-info {
+      margin-bottom: 30px;
+      .logo {
+        line-height: 0;
+        margin-bottom: 15px;
+        img {
+          max-height: 40px;
+          margin-right: 6px;
+        }
+    
+        span {
+          font-size: 30px;
+          font-weight: 700;
+          letter-spacing: 1px;
+          color: $secondary;
+          font-family: $font-primary;
+          margin-top: 3px;
+        }
+    
+      }
+
+      p {
+        font-size: 14px;
+        line-height: 24px;
+        margin-bottom: 0;
+        font-family: $font-primary;
+      }
+    }
+
+    .social-links {
+      a {
+        font-size: 20px;
+        display: inline-block;
+        color: rgba($secondary, .5);
+        line-height: 0;
+        margin-right: 10px;
+        transition: 0.3s;
+        &:hover {
+          color: rgba($secondary,  1);
+        }
+      }
+    }
+
+    h4 {
+      font-size: 16px;
+      font-weight: bold;
+      color: $secondary;
+      text-transform: uppercase;
+      position: relative;
+      padding-bottom: 12px;
+    }
+
+    .footer-links {
+      margin-bottom: 30px;
+      ul{
+        list-style: none;
+        padding: 0;
+        margin: 0;
+
+        i {
+          padding-right: 2px;
+          color: lighten($primary, 30);
+          font-size: 12px;
+          line-height: 0;
+        }
+
+        li {
+          padding: 10px 0;
+          &:first-child {
+            padding-top: 0;
+          }
+          display: flex;
+          align-items: center;
+        }
+
+        a {
+          color: lighten($secondary, 5);
+          transition: 0.3s;
+          display: inline-block;
+          line-height: 1;
+          &:hover {
+            color: $primary;
+          }
+        }
+      }
+    }
+
+    .footer-contact {
+      p {
+        line-height: 26px;
+      }
+    }
+
+  }
+
+  .copyright {
+    text-align: center;
+    padding-top: 30px;
+    color: $secondary;
+  }
+
+  .credits {
+    padding-top: 10px;
+    text-align: center;
+    font-size: 13px;
+    color: $secondary;
+  }
+}
