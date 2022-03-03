@@ -1,0 +1,32 @@
+/*--------------------------------------------------------------
+# Header
+--------------------------------------------------------------*/
+.header {
+  transition: all 0.5s;
+  z-index: 997;
+  padding: 20px 0;
+
+  &.header-scrolled {
+    background: #fff;
+    padding: 15px 0;
+    box-shadow: 0px 2px 20px rgba($secondary, 0.10);
+  }
+
+  .logo {
+    line-height: 0;
+    img {
+      max-height: 40px;
+      margin-right: 6px;
+    }
+
+    span {
+      font-size: 30px;
+      font-weight: 700;
+      letter-spacing: 1px;
+      color: $secondary;
+      font-family: $font-primary;
+      margin-top: 3px;
+    }
+
+  }
+}
