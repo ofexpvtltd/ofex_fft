@@ -26,10 +26,10 @@
   // Uncomment below code if you want to use SMTP to send emails. You need to enter your correct SMTP credentials
   
   $contact->smtp = array(
-    'host' => 'smtppro.zoho.in',
-    'username' => 'info@ofex.in',
+    'host' => 'freedom.herosite.pro',
+    'username' => 'noreply@ofex.in',
     'password' => 'Praty_ofex_2015',
-    'port' => '587'
+    'port' => '465'
   );
   
 
