@@ -7,7 +7,7 @@
   */
 
   // Replace contact@example.com with your real receiving email address
-  $receiving_email_address = 'info@ofex.in';
+  $receiving_email_address = 'ofexpvtltd@gmail.com';
 
   if( file_exists($php_email_form = '../assets/vendor/php-email-form/php-email-form.php' )) {
     include( $php_email_form );
@@ -24,13 +24,13 @@
   $contact->subject = $_POST['subject'];
 
   // Uncomment below code if you want to use SMTP to send emails. You need to enter your correct SMTP credentials
-  
+  /*
   $contact->smtp = array(
-    'host' => 'freedom.herosite.pro',
-    'username' => 'noreply@ofex.in',
-    'password' => 'Praty_ofex_2015',
-    'port' => '465'
-  );
+    'host' => '',
+    'username' => '',
+    'password' => '',
+    'port' => ''
+  ); */
   
 
   $contact->add_message( $_POST['name'], 'From');
