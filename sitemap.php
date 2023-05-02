@@ -1,6 +1,6 @@
 <?php
 // Set the base URL of your website
-$baseUrl = 'https://www.example.com/';
+$baseUrl = 'https://www.ofex.in/';
 
 // Define the list of pages with their corresponding URLs
 $pages = array(
