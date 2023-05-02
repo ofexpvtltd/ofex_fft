@@ -6,9 +6,9 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
   <title>OFeX Fleet & Fuel Tracking</title>
-  <meta content="" name="description">
+  <meta content="Next-Generation Fleet & Fuel Telematics Platform. Save big on operational costs and manage your fuel utility with ease" name="description">
 
-  <meta content="" name="keywords">
+  <meta content="Next-Generation Fleet Fuel Telematics Platform Save big operational costs manage fuel utility ease" name="keywords">
 
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">
