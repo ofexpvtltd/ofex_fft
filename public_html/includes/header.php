@@ -3,7 +3,7 @@
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
       <a href="?page=home" class="logo d-flex align-items-center">
-        <img src="assets/img/logo_orange.png" alt="">
+        <img src="assets/img/logo.png" alt="">
       </a>
 
       <nav id="navbar" class="navbar">
