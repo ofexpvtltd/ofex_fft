@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/ofex/public_html/
+    - export DEPLOYPATH=/home/ofex/
     - /bin/cp -R * $DEPLOYPATH
