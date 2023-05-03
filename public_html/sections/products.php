@@ -77,4 +77,6 @@
 
       </div>
 
+      <?php include 'includes/bookdemobutton.php'; ?>
+
     </section><!-- End products Section -->

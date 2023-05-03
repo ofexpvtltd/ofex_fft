@@ -128,4 +128,6 @@
 
         </div>
 
+        <?php include 'includes/bookdemobutton.php'; ?>
+
     </section><!-- End Solutions Section -->

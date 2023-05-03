@@ -76,4 +76,6 @@
 
       </div>
 
+      <?php include 'includes/bookdemobutton.php'; ?>
+
     </section><!-- End Services Section -->

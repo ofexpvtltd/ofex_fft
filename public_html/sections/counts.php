@@ -8,7 +8,7 @@
             <div class="count-box">
               <i class="bi bi-person" style="color: red;"></i>
               <div>
-                <span>200+</span>
+                <span>150+</span>
                 <p>Theft Caught</p>
               </div>
             </div>
@@ -18,7 +18,7 @@
             <div class="count-box">
               <i class="bi bi-map" style="color: green;"></i>
               <div>
-                <span>20,00,000+</span>
+                <span>19,00,000+</span>
                 <p>Kms Tracked</p>
               </div>
             </div>
@@ -38,7 +38,7 @@
             <div class="count-box">
               <i class="bi bi-clock-history" style="color: purple;"></i>
               <div>
-                <span>1,500+</span>
+                <span>1,700+</span>
                 <p>Hours Saved</p>
               </div>
             </div>

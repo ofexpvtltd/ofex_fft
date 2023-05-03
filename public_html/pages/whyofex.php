@@ -170,14 +170,8 @@
           <div class="col-lg-6">
             <img src="assets/img/overview.gif" class="img-fluid" alt="">
           </div>
-
+          
         </div><!-- End Feature Tabs -->
-
-        <?php
-
-            include 'sections/contact.php';
-          ?>
-
+        <?php include 'includes/bookdemobutton.php'; ?>
       </div>
-
     </section><!-- End Features Section -->

@@ -91,5 +91,7 @@
         </div> <!-- / row -->
 
       </div>
+      
+      <?php include 'includes/bookdemobutton.php'; ?>
 
     </section><!-- End Advantages Section -->
