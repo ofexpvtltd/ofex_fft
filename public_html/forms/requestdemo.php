@@ -25,7 +25,7 @@
   $contact->from_contact = $_POST['contact'];
   $contact->from_company = $_POST['company'];
   $contact->from_fleet = $_POST['fleet'];
-  $contact->subject = 'Demo Requested by ' . $_POST['name'] . 'from' . $_POST['company'];
+  $contact->subject = 'Demo Requested by ' . $_POST['name'] . ' from ' . $_POST['company'];
 
   // Uncomment below code if you want to use SMTP to send emails. You need to enter your correct SMTP credentials
   /*
