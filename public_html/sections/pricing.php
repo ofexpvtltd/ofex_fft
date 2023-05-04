@@ -82,7 +82,7 @@
           <div class="col-lg-3 col-md-6" data-aos="zoom-in" data-aos-delay="400">
             <div class="box">
               <h3 style="color: #ff0071;">Enterprise Solution</h3>
-              <div class="price"><a class="getstarted scrollto" href="#contact"><br><br><br>Request Quotation<br><br><br><br></a></div>
+              <div class="price"><a class="getstarted scrollto" href="#" data-bs-toggle="modal" data-bs-target="#contactModal"><br><br><br>Request Quotation<br><br><br><br></a></div>
               <img src="assets/img/enterprise.png" class="img-fluid" alt="">
               <ul>
                 <li>Everything from other plans</li>
