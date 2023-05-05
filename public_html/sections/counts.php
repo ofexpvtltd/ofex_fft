@@ -18,7 +18,7 @@
             <div class="count-box">
               <i class="bi bi-map" style="color: green;"></i>
               <div>
-                <span>19,00,000+</span>
+                <span>1.9M+</span>
                 <p>Kms Tracked</p>
               </div>
             </div>
@@ -28,7 +28,7 @@
             <div class="count-box">
               <i class="bi bi-droplet-half" style="color: #ee6c20;"></i>
               <div>
-                <span>20,000+</span>
+                <span>20K+</span>
                 <p>Litres of fuel saved</p>
               </div>
             </div>
@@ -38,7 +38,7 @@
             <div class="count-box">
               <i class="bi bi-clock-history" style="color: purple;"></i>
               <div>
-                <span>1,700+</span>
+                <span>1700+</span>
                 <p>Hours Saved</p>
               </div>
             </div>
