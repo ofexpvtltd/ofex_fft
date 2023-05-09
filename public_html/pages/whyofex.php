@@ -12,14 +12,14 @@
                 <br>With complete visibility and control over your fleet, OFeX allows you to manage maintenance, fuel, and labor costs, while promoting safe and efficient driving practices. 
                 
                 <br>Streamline your fleet operations with OFeX and optimize your bottom line -
-                    <ul>
-                        <li>Monitor Vehicle Health & Fuel Usage</li>
-                        <li>Predict Maintenance Costs</li>
-                        <li>Control Emissions</li>
-                        <li>Reduce Insurance Premiums</li>
-                        <li>Enhance Safety & Security</li>
-                        <li>Optimize Fleet Efficiency</li>
-                        <li>Prevent Accidents</li>
+                    <ul style=" margin-left: 2%">
+                        <li>  Monitor Vehicle Health & Fuel Usage</li>
+                        <li>  Predict Maintenance Costs</li>
+                        <li>  Control Emissions</li>
+                        <li>  Reduce Insurance Premiums</li>
+                        <li>  Enhance Safety & Security</li>
+                        <li>  Optimize Fleet Efficiency</li>
+                        <li>  Prevent Accidents</li>
                     </ul>
 
             </p>

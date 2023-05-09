@@ -2,7 +2,7 @@
     <section id="solutions" class="about">
       
         <header class="section-header">
-          <p style="margin: 10px 0 0 0;line-height: 42px;"> Our expertise
+          <p style="margin: 10px 0 0 0;line-height: 42px;"> Our Expertise
           </p>
         </header>
         
@@ -12,7 +12,7 @@
                 <h2 data-aos="fade-up">Maximize Your Fuel Savings with OFeX's Fleet and Fuel Optimisation Solution                
                 </h2>
                 <h6 data-aos="fade-up" data-aos-delay="400"><br>
-                  At OFeX, we excel in engineering <b>Telematics Solutions for Fleet Management</b>, with <b>cutting-edge hardware</b> for diverse industries. Our expertise lies in identifying crucial data for <b>fuel consumption management</b> and empowering clients with their techniques and operations for industrial efficiency.<br>Enhance efficiency, safety, and cost savings by digitizing your end-to-end logistics and fleet management plan with OFeX’s versatile solutions.
+                  At OFeX, we excel in engineering <b>Telematics Solutions for Fleet Management</b>, with <b>cutting-edge hardware</b> for diverse industries. Our expertise lies in identifying crucial data for <b>fuel consumption management</b> and empowering clients with their techniques and operations for industrial efficiency.<br><br>Enhance efficiency, safety, and cost savings by digitizing your end-to-end logistics and fleet management plan with OFeX’s versatile solutions.
                   <br><br><br>
                 </h6>
                 <div class="text-center text-lg-start">

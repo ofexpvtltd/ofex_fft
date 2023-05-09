@@ -8,7 +8,7 @@
 
                         <div class="container" data-aos="fade-up">
 
-                            <header class="section-header">
+                            <header class="section-header" style="padding-bottom: 20px;">
                                 <p>Book a Free Demo</p>                                
                             </header>
 
@@ -52,8 +52,10 @@
                                     <div class="loading">Loading</div>
                                     <div class="error-message"></div>
                                     <div class="sent-message">Thank you for booking a demo with us, an agent will contact you soon.</div>
-
+                                    
+                                    <button type="submit" data-bs-dismiss="modal" aria-label="Close" style="background-color: #bfbfbf; color: #fff;">Close</button>
                                     <button type="submit">Send Message</button>
+                                    
                                 </div>
 
                                 </div>

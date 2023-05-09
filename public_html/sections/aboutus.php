@@ -27,7 +27,7 @@
               <h3>We Believe</h3>
               <h2>Fleets are the beating heart of the global economy.</h2>
               <p>At OFeX, we believe that modern fleet technology can make roads safer, promote prosperity for commercial vehicle owners and drivers, and positively impact climate sustainability. 
-                <br>Despite technological advancements in developed regions, fleet owners and drivers in other areas still face challenges with basic products and services. We aim to change that by offering advanced and comprehensive fleet solutions.
+                <br><br>Despite technological advancements in developed regions, fleet owners and drivers in other areas still face challenges with basic products and services. We aim to change that by offering advanced and comprehensive fleet solutions.
               </p>
             </div>
           </div>
@@ -48,7 +48,7 @@
             <div class="content">
               <h3>Our Challenges</h3>
               <h2>Democratising access to fleet technology for every commercial vehicle in the emerging world.</h2>
-              <p>Our journey is filled with challenges, including fragmented players, varying fleets, multilingual users, price sensitivity, limitations, and country-specific nuances. However, we see this as an opportunity to positively impact over 100 million vehicle owners and drivers by 2030.
+              <p>Our journey is filled with challenges, including fragmented players, varying fleets, multilingual users, price sensitivity, limitations, and country-specific nuances.<br>However, we see this as an opportunity to positively impact over 100 million vehicle owners and drivers by 2030.
               </p>
             </div>
           </div>
