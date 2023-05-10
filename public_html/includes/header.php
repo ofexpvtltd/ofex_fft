@@ -15,7 +15,7 @@
           <li><a class="nav-link scrollto" href="?page=aboutofex">About Us</a></li>
           <li><a class="nav-link scrollto" href="?page=CaseStudy">Case Study</a></li>
           <li><a class="getstarted scrollto" href="#" data-bs-toggle="modal" data-bs-target="#contactModal" style="background: #f3942f;">Schedule Demo</a></li>
-          <li><a class="getstarted scrollto" href="http://fuel.ofex.in">Login</a></li>
+          <li><a class="nav-link scrollto" href="http://fuel.ofex.in">Login</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
