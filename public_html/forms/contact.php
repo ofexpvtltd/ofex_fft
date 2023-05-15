@@ -22,7 +22,7 @@
       'entry.1808644484' => $message,
     ];
 
-    $googleFormUrl = 'https://docs.google.com/forms/d/1FAIpQLSdARHkEaNZUw-3GIGLXO0q5Iwikqu3DWWXRKsqk6dfDFrVBKg/formResponse';
+    $googleFormUrl = 'https://docs.google.com/forms/d/e/1FAIpQLSdARHkEaNZUw-3GIGLXO0q5Iwikqu3DWWXRKsqk6dfDFrVBKg/formResponse';
 
     $options = [
       'http' => [
