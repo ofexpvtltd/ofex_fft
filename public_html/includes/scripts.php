@@ -6,7 +6,9 @@
   <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
   <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
   <script src="assets/vendor/php-email-form/validate.js"></script>
-    <script>
+  <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
+    <script> // To validate Mobile Number
         function validateMobileNumber(event) {
         const keyCode = event.which ? event.which : event.keyCode;
         const inputValue = event.target.value;
@@ -25,6 +27,13 @@
         return true;
         }
     </script>
+
+    <script> // Enable Submit Button after validation of reCAPTCHA
+      function enableSubmitButton() {
+        document.getElementById("submitButton").removeAttribute("disabled");
+      }
+    </script>
+
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>

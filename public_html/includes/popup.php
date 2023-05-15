@@ -12,7 +12,7 @@
                                 <p>Book a Free Demo</p>                                
                             </header>
 
-                            <form action="forms/requestdemo.php" method="post" class="php-email-form">
+                            <form action="forms/requestdemo.php" method="post" class="php-email-form" id="DemoForm">
                                 <div class="row gy-4">
 
                                 <div class="col-md-6">
@@ -32,7 +32,7 @@
                                 </div>
                                 
                                 <div class="col-md-12">
-                                    <!--input type="text" class="form-control" name="fleet" placeholder="Fleet Size" required-->
+                                    
                                     <label for="fleet_size">Fleet Size</label>
                                         <select class="form-control" name="fleet" placeholder="Fleet Size" required>
                                             <option value="1-2">1-2</option>
@@ -48,13 +48,15 @@
                                     <textarea class="form-control" name="message" rows="6" placeholder="A bit about nature of your business, required to suggest a better solution." required></textarea>
                                 </div>
 
+                                <div class="g-recaptcha" data-sitekey="6LfKeBAmAAAAAKaE3J8R3a8fAMrMnCnwnxiUBEgj" data-callback="enableSubmitButton"></div>
+
                                 <div class="col-md-12 text-center">
                                     <div class="loading">Loading</div>
                                     <div class="error-message"></div>
                                     <div class="sent-message">Thank you for booking a demo with us, an agent will contact you soon.</div>
                                     
                                     <button type="submit" data-bs-dismiss="modal" aria-label="Close" style="background-color: #bfbfbf; color: #fff;">Close</button>
-                                    <button type="submit">Send Message</button>
+                                    <button type="submit" id="submitButton" disabled>Book my Demo</button>
                                     
                                 </div>
 
