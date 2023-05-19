@@ -20,7 +20,7 @@
                 </h2>
 
                 <h6 data-aos="fade-up" data-aos-delay="400">
-                  <br>At OFeX, we excel in engineering <b>Telematics Solutions for Fleet Management</b>, with <b>cutting-edge hardware</b> for diverse industries. Our expertise lies in identifying crucial data for <b>fuel consumption management</b> and empowering clients with techniques and data for industrial efficiency.<br><br>Enhance efficiency, safety, and cost savings by digitizing your end-to-end logistics and fleet management plan with OFeX’s versatile solutions.
+                  <br>At OFeX, we excel in engineering <b>Telematics Solutions for Fleet Management</b>, with <b>cutting-edge hardware</b> for diverse industries. Our expertise lies in identifying crucial data for <b>fuel consumption management</b> and empowering clients with techniques and data for industrial efficiency.<br><br>Enhance efficiency, safety, and cost savings by digitizing your end-to-end Fleet and Fuel Management plans with OFeX’s versatile solutions.
                   <br><br><br>
                 </h6>
                 
