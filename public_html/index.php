@@ -75,6 +75,14 @@
     case 'aboutofex':
       include 'includes/CaseStudyheader.php';
       break;
+
+    case 'privacypolicy':
+      include 'includes/CaseStudyheader.php';
+      break;
+
+    case 'tnc':
+      include 'includes/CaseStudyheader.php';
+      break;
     
   }
   ?>

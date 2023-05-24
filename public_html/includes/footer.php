@@ -15,13 +15,13 @@
           </div>  
 
           <div class="col-lg-2 col-6 footer-links">
-            <h4></h4>
+            <h4>Useful Links</h4>
             <ul>
-              <li><i class=""></i> <a href="#"></a></li>
-              <li><i class=""></i> <a href="#"></a></li>
-              <li><i class=""></i> <a href="#"></a></li>
-              <li><i class=""></i> <a href="#"></a></li>
-              <li><i class=""></i> <a href="#"></a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="?page=home">Home</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="?page=aboutofex">About us</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="?page=CaseStudy">Case Studies</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="?page=tnc">Terms and Conditions</a></li> 
+              <li><i class="bi bi-chevron-right"></i> <a href="?page=privacypolicy">Privacy policy</a></li>
             </ul>
           </div>
 

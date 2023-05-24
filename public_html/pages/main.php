@@ -43,6 +43,14 @@
         include 'pages/whyofex.php';
         break;
 
+    case 'privacypolicy':
+      include 'pages/privacypolicy.php';
+      break;
+
+    case 'tnc':
+      include 'pages/tnc.php';
+      break;
+
         
   }
   ?>
