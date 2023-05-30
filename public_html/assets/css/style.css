@@ -74,8 +74,7 @@ section {
   color: #fff;
 }
 @media (max-width: 992px) {
-  .breadcrumbs {
-  }
+
 }
 .breadcrumbs h2 {
   font-size: 28px;
