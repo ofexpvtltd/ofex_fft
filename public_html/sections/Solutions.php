@@ -81,9 +81,9 @@
                   <h3>OFeX's Capacitive Fuel Sensing Technology streamlines Fuel Management by - </h3>
                     <p> <ul>
                         <li><b>Providing Real-Time Insights & Detailed Fuel Levels </li>
-                        <li>Improves Operational Efficiency </li>
-                        <li>Reduces Operation Costs </li>
-                        <li>Promote Safety through Enhanced Fuel Tracking</li>
+                        <li>Identify Fuel Consumption Patterns</li>
+                        <li>Refueling and Drainage Reports</li>
+                        <li>Trip based Statistics</li>
                         </b>
                         </ul>
                     </p>
