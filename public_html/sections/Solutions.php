@@ -82,7 +82,7 @@
                     <p> <ul>
                         <li><b>Providing Real-Time Insights & Detailed Fuel Levels </li>
                         <li>Identify Fuel Consumption Patterns</li>
-                        <li>Refueling and Drainage Reports</li>
+                        <li>Refuelling and Drainage Reports</li>
                         <li>Trip based Statistics</li>
                         </b>
                         </ul>
